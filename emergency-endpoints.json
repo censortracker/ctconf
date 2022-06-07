@@ -1,4 +1,1 @@
-{
-  "registry": "https://app.censortracker.org/api/config/",
-  "proxy": "https://app.censortracker.org/api/proxy-config/"
-}
+{"registry": "https://app.censortracker.org/api/config/", "proxy": "https://app.censortracker.org/api/proxy-config/"}
