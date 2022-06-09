@@ -4,4 +4,4 @@
 [![Mozilla Add-on](https://img.shields.io/amo/v/censor-tracker)](https://addons.mozilla.org/ru/firefox/addon/censor-tracker/)
 
 
-1. `endpoints.json` emergency endpoints of CensorTracker.
+1. `endpoints.json` emergency API-endpoints of CensorTracker.
