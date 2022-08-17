@@ -1,0 +1,21 @@
+{
+  "apis": [
+    {
+      "storageKey": "domains",
+      "url": "https://registry.censortracker.org/api/v3/ct-domains/json/"
+    },
+    {
+      "storageKey": "customRegistryUrl",
+      "url": "https://registry.censortracker.org/api/v4/dpi/ru/json/"
+    },
+    {
+      "storageKey": "disseminators",
+      "url": "https://registry.censortracker.org/api/v3/ori/refused/json/"
+    }
+  ],
+  "countryDetails": {
+    "name": "Russia",
+    "isoA2Code": "RU",
+    "localeCode": "ru"
+  }
+}
