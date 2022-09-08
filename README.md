@@ -4,6 +4,6 @@
 [![Mozilla Add-on](https://img.shields.io/amo/v/censor-tracker)](https://addons.mozilla.org/ru/firefox/addon/censor-tracker/)
 ![Netlify](https://img.shields.io/netlify/1137e5c4-6b68-42a3-ab0b-804b92c482b8)
 
-1. `endpoints.json` emergency API-endpoints of Censor Tracker.
-2. `registry/` contains JSON files of blocked domains by countries.
-3. `registry.fallback.json` contains fallback config for cases when backend is intermittent.
+1. **`endpoints.json`** - emergency API-endpoints of Censor Tracker.
+2. **`registry`** - contains JSON files of blocked domains by countries.
+3. **`registry.fallback.json`** - contains fallback config for cases when backend is intermittent.
