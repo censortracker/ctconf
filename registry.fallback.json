@@ -2,15 +2,15 @@
   "apis": [
     {
       "storageKey": "domains",
-      "url": "https://registry.censortracker.org/api/v3/ct-domains/json/"
+      "url": "https://registry.censortracker.org/api/v3/ct-domains/"
     },
     {
       "storageKey": "customRegistryUrl",
-      "url": "https://registry.censortracker.org/api/v4/dpi/ru/json/"
+      "url": "https://registry.censortracker.org/api/v3/dpi/"
     },
     {
       "storageKey": "disseminators",
-      "url": "https://registry.censortracker.org/api/v3/ori/refused/json/"
+      "url": "https://registry.censortracker.org/api/v3/disseminators/refused/"
     }
   ],
   "countryDetails": {
