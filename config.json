@@ -1,1 +1,2666 @@
-{}
+{
+  "data": [
+    {
+      "countryCode": "UZ",
+      "countryName": "Uzbekistan",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/uz.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KG",
+      "countryName": "Kyrgyzstan",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/kg.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CY",
+      "countryName": "Cyprus",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AF",
+      "countryName": "Afghanistan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AX",
+      "countryName": "Åland Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KZ",
+      "countryName": "Kazakhstan",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/kz.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AL",
+      "countryName": "Albania",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BR",
+      "countryName": "Brazil",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TD",
+      "countryName": "Chad",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HR",
+      "countryName": "Croatia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GQ",
+      "countryName": "Equatorial Guinea",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TF",
+      "countryName": "French Southern Territories",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GG",
+      "countryName": "Guernsey",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ID",
+      "countryName": "Indonesia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KI",
+      "countryName": "Kiribati",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LI",
+      "countryName": "Liechtenstein",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MR",
+      "countryName": "Mauritania",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FM",
+      "countryName": "Micronesia (Federated States of)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NR",
+      "countryName": "Nauru",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "customRegistryUrl": "https://registry.censortracker.org/api/v3/dpi/",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://registry.censortracker.org/api/v3/ct-domains/",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GE",
+      "countryName": "Georgia",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/ge.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NO",
+      "countryName": "Norway",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PT",
+      "countryName": "Portugal",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VC",
+      "countryName": "Saint Vincent and the Grenadines",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SI",
+      "countryName": "Slovenia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BZ",
+      "countryName": "Belize",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BJ",
+      "countryName": "Benin",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BM",
+      "countryName": "Bermuda",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BT",
+      "countryName": "Bhutan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BO",
+      "countryName": "Bolivia (Plurinational State of)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BQ",
+      "countryName": "Bonaire, Sint Eustatius and Saba",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BA",
+      "countryName": "Bosnia and Herzegovina",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BW",
+      "countryName": "Botswana",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BV",
+      "countryName": "Bouvet Island",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IO",
+      "countryName": "British Indian Ocean Territory",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BN",
+      "countryName": "Brunei Darussalam",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BG",
+      "countryName": "Bulgaria",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BF",
+      "countryName": "Burkina Faso",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BI",
+      "countryName": "Burundi",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CV",
+      "countryName": "Cabo Verde",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KH",
+      "countryName": "Cambodia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CM",
+      "countryName": "Cameroon",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CA",
+      "countryName": "Canada",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KY",
+      "countryName": "Cayman Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CF",
+      "countryName": "Central African Republic",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CL",
+      "countryName": "Chile",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CN",
+      "countryName": "China",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CX",
+      "countryName": "Christmas Island",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CC",
+      "countryName": "Cocos (Keeling) Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CO",
+      "countryName": "Colombia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KM",
+      "countryName": "Comoros",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CG",
+      "countryName": "Congo",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CD",
+      "countryName": "Congo, Democratic Republic of the",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CK",
+      "countryName": "Cook Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CR",
+      "countryName": "Costa Rica",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CI",
+      "countryName": "Côte d'Ivoire",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CU",
+      "countryName": "Cuba",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CW",
+      "countryName": "Curaçao",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CZ",
+      "countryName": "Czechia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DK",
+      "countryName": "Denmark",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DJ",
+      "countryName": "Djibouti",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DM",
+      "countryName": "Dominica",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DO",
+      "countryName": "Dominican Republic",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "EC",
+      "countryName": "Ecuador",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "EG",
+      "countryName": "Egypt",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SV",
+      "countryName": "El Salvador",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ER",
+      "countryName": "Eritrea",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "EE",
+      "countryName": "Estonia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SZ",
+      "countryName": "Eswatini",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ET",
+      "countryName": "Ethiopia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FK",
+      "countryName": "Falkland Islands (Malvinas)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FO",
+      "countryName": "Faroe Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PM",
+      "countryName": "Saint Pierre and Miquelon",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DZ",
+      "countryName": "Algeria",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AS",
+      "countryName": "American Samoa",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AD",
+      "countryName": "Andorra",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AO",
+      "countryName": "Angola",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AI",
+      "countryName": "Anguilla",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AQ",
+      "countryName": "Antarctica",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AG",
+      "countryName": "Antigua and Barbuda",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AR",
+      "countryName": "Argentina",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AM",
+      "countryName": "Armenia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AW",
+      "countryName": "Aruba",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AU",
+      "countryName": "Australia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AT",
+      "countryName": "Austria",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BS",
+      "countryName": "Bahamas",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BH",
+      "countryName": "Bahrain",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BD",
+      "countryName": "Bangladesh",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BB",
+      "countryName": "Barbados",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FJ",
+      "countryName": "Fiji",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FI",
+      "countryName": "Finland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "FR",
+      "countryName": "France",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GF",
+      "countryName": "French Guiana",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PF",
+      "countryName": "French Polynesia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GA",
+      "countryName": "Gabon",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GM",
+      "countryName": "Gambia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MD",
+      "countryName": "Moldova, Republic of",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GS",
+      "countryName": "South Georgia and the South Sandwich Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SS",
+      "countryName": "South Sudan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ES",
+      "countryName": "Spain",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LK",
+      "countryName": "Sri Lanka",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GH",
+      "countryName": "Ghana",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GI",
+      "countryName": "Gibraltar",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GR",
+      "countryName": "Greece",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GL",
+      "countryName": "Greenland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GD",
+      "countryName": "Grenada",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GP",
+      "countryName": "Guadeloupe",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GU",
+      "countryName": "Guam",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AZ",
+      "countryName": "Azerbaijan",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/az.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/tr.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "WS",
+      "countryName": "Samoa",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/ua.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BY",
+      "countryName": "Belarus",
+      "customRegistryUrl": null,
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/by.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GT",
+      "countryName": "Guatemala",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SD",
+      "countryName": "Sudan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GN",
+      "countryName": "Guinea",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GW",
+      "countryName": "Guinea-Bissau",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "GY",
+      "countryName": "Guyana",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HT",
+      "countryName": "Haiti",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HM",
+      "countryName": "Heard Island and McDonald Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VA",
+      "countryName": "Holy See",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HN",
+      "countryName": "Honduras",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HK",
+      "countryName": "Hong Kong",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "HU",
+      "countryName": "Hungary",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IS",
+      "countryName": "Iceland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IN",
+      "countryName": "India",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IR",
+      "countryName": "Iran (Islamic Republic of)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IQ",
+      "countryName": "Iraq",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IE",
+      "countryName": "Ireland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IM",
+      "countryName": "Isle of Man",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IL",
+      "countryName": "Israel",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "IT",
+      "countryName": "Italy",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "JM",
+      "countryName": "Jamaica",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "JP",
+      "countryName": "Japan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "JE",
+      "countryName": "Jersey",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "JO",
+      "countryName": "Jordan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KE",
+      "countryName": "Kenya",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KP",
+      "countryName": "Korea (Democratic People's Republic of)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KR",
+      "countryName": "Korea, Republic of",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KW",
+      "countryName": "Kuwait",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LA",
+      "countryName": "Lao People's Democratic Republic",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LV",
+      "countryName": "Latvia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LB",
+      "countryName": "Lebanon",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LS",
+      "countryName": "Lesotho",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LR",
+      "countryName": "Liberia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LY",
+      "countryName": "Libya",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LT",
+      "countryName": "Lithuania",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MO",
+      "countryName": "Macao",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MG",
+      "countryName": "Madagascar",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MW",
+      "countryName": "Malawi",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MY",
+      "countryName": "Malaysia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MV",
+      "countryName": "Maldives",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ML",
+      "countryName": "Mali",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MT",
+      "countryName": "Malta",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MH",
+      "countryName": "Marshall Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MQ",
+      "countryName": "Martinique",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MU",
+      "countryName": "Mauritius",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "YT",
+      "countryName": "Mayotte",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MX",
+      "countryName": "Mexico",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MC",
+      "countryName": "Monaco",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MN",
+      "countryName": "Mongolia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ME",
+      "countryName": "Montenegro",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MS",
+      "countryName": "Montserrat",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MA",
+      "countryName": "Morocco",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MZ",
+      "countryName": "Mozambique",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MM",
+      "countryName": "Myanmar",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NA",
+      "countryName": "Namibia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NP",
+      "countryName": "Nepal",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NC",
+      "countryName": "New Caledonia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NZ",
+      "countryName": "New Zealand",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NI",
+      "countryName": "Nicaragua",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NE",
+      "countryName": "Niger",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NG",
+      "countryName": "Nigeria",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NU",
+      "countryName": "Niue",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "NF",
+      "countryName": "Norfolk Island",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MK",
+      "countryName": "North Macedonia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MP",
+      "countryName": "Northern Mariana Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "OM",
+      "countryName": "Oman",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PK",
+      "countryName": "Pakistan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PW",
+      "countryName": "Palau",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PS",
+      "countryName": "Palestine, State of",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PA",
+      "countryName": "Panama",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PG",
+      "countryName": "Papua New Guinea",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PY",
+      "countryName": "Paraguay",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PE",
+      "countryName": "Peru",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PH",
+      "countryName": "Philippines",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PN",
+      "countryName": "Pitcairn",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PL",
+      "countryName": "Poland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "PR",
+      "countryName": "Puerto Rico",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "QA",
+      "countryName": "Qatar",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "RE",
+      "countryName": "Réunion",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "RO",
+      "countryName": "Romania",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "RW",
+      "countryName": "Rwanda",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "BL",
+      "countryName": "Saint Barthélemy",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SH",
+      "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "KN",
+      "countryName": "Saint Kitts and Nevis",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "LC",
+      "countryName": "Saint Lucia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "MF",
+      "countryName": "Saint Martin (French part)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SM",
+      "countryName": "San Marino",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ST",
+      "countryName": "Sao Tome and Principe",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SA",
+      "countryName": "Saudi Arabia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SN",
+      "countryName": "Senegal",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "RS",
+      "countryName": "Serbia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SC",
+      "countryName": "Seychelles",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SL",
+      "countryName": "Sierra Leone",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SG",
+      "countryName": "Singapore",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SX",
+      "countryName": "Sint Maarten (Dutch part)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SK",
+      "countryName": "Slovakia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SB",
+      "countryName": "Solomon Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SO",
+      "countryName": "Somalia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ZA",
+      "countryName": "South Africa",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SR",
+      "countryName": "Suriname",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SJ",
+      "countryName": "Svalbard and Jan Mayen",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SE",
+      "countryName": "Sweden",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "CH",
+      "countryName": "Switzerland",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "SY",
+      "countryName": "Syrian Arab Republic",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TW",
+      "countryName": "Taiwan, Province of China",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TJ",
+      "countryName": "Tajikistan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TZ",
+      "countryName": "Tanzania, United Republic of",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TH",
+      "countryName": "Thailand",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TL",
+      "countryName": "Timor-Leste",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TG",
+      "countryName": "Togo",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TK",
+      "countryName": "Tokelau",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TO",
+      "countryName": "Tonga",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TT",
+      "countryName": "Trinidad and Tobago",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TN",
+      "countryName": "Tunisia",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TM",
+      "countryName": "Turkmenistan",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TC",
+      "countryName": "Turks and Caicos Islands",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "TV",
+      "countryName": "Tuvalu",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "UG",
+      "countryName": "Uganda",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "AE",
+      "countryName": "United Arab Emirates",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "UY",
+      "countryName": "Uruguay",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VU",
+      "countryName": "Vanuatu",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VE",
+      "countryName": "Venezuela (Bolivarian Republic of)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VN",
+      "countryName": "Viet Nam",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "VG",
+      "countryName": "Virgin Islands (British)",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    },
+    {
+      "countryCode": "ZW",
+      "countryName": "Zimbabwe",
+      "customRegistryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "ignoreUrl": null,
+      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "registryUrl": "https://roskomsvoboda.github.io/ctconf/registry/default.json",
+      "specifics": {
+        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+      }
+    }
+  ],
+  "meta": {
+    "geoIPServiceURL": "https://geo.censortracker.org/get-iso/",
+    "message": {
+      "description": null,
+      "page": "popup|options",
+      "show": false,
+      "title": null,
+      "type": "info|warning|error"
+    },
+    "timestamp": 1693470615
+  }
+}
