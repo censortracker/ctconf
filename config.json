@@ -5,10 +5,10 @@
       "countryName": "Uzbekistan",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/uz.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -16,10 +16,10 @@
       "countryName": "Kyrgyzstan",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/kg.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -27,10 +27,10 @@
       "countryName": "Cyprus",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -38,10 +38,10 @@
       "countryName": "Afghanistan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -49,10 +49,10 @@
       "countryName": "Åland Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -60,10 +60,10 @@
       "countryName": "Kazakhstan",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/kz.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -71,10 +71,10 @@
       "countryName": "Albania",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -82,10 +82,10 @@
       "countryName": "Brazil",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -93,10 +93,10 @@
       "countryName": "Chad",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -104,10 +104,10 @@
       "countryName": "Croatia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -115,10 +115,10 @@
       "countryName": "Equatorial Guinea",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -126,10 +126,10 @@
       "countryName": "French Southern Territories",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -137,10 +137,10 @@
       "countryName": "Guernsey",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -148,10 +148,10 @@
       "countryName": "Indonesia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -159,10 +159,10 @@
       "countryName": "Kiribati",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -170,10 +170,10 @@
       "countryName": "Liechtenstein",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -181,10 +181,10 @@
       "countryName": "Mauritania",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -192,10 +192,10 @@
       "countryName": "Micronesia (Federated States of)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -203,21 +203,21 @@
       "countryName": "Nauru",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
       "countryCode": "RU",
       "countryName": "Russia",
-      "customRegistryUrl": "https://registry.censortracker.org/api/v3/dpi/",
+      "customRegistryUrl": "https://registry.ctreserve.de/api/v3/dpi/",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
-      "registryUrl": "https://registry.censortracker.org/api/v3/ct-domains/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
+      "registryUrl": "https://registry.ctreserve.de/api/v3/ct-domains/",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -225,10 +225,10 @@
       "countryName": "Georgia",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/ge.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -236,10 +236,10 @@
       "countryName": "Norway",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -247,10 +247,10 @@
       "countryName": "Portugal",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -258,10 +258,10 @@
       "countryName": "Saint Vincent and the Grenadines",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -269,10 +269,10 @@
       "countryName": "Slovenia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -280,10 +280,10 @@
       "countryName": "Belize",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -291,10 +291,10 @@
       "countryName": "Benin",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -302,10 +302,10 @@
       "countryName": "Bermuda",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -313,10 +313,10 @@
       "countryName": "Bhutan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -324,10 +324,10 @@
       "countryName": "Bolivia (Plurinational State of)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -335,10 +335,10 @@
       "countryName": "Bonaire, Sint Eustatius and Saba",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -346,10 +346,10 @@
       "countryName": "Bosnia and Herzegovina",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -357,10 +357,10 @@
       "countryName": "Botswana",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -368,10 +368,10 @@
       "countryName": "Bouvet Island",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -379,10 +379,10 @@
       "countryName": "British Indian Ocean Territory",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -390,10 +390,10 @@
       "countryName": "Brunei Darussalam",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -401,10 +401,10 @@
       "countryName": "Bulgaria",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -412,10 +412,10 @@
       "countryName": "Burkina Faso",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -423,10 +423,10 @@
       "countryName": "Burundi",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -434,10 +434,10 @@
       "countryName": "Cabo Verde",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -445,10 +445,10 @@
       "countryName": "Cambodia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -456,10 +456,10 @@
       "countryName": "Cameroon",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -467,10 +467,10 @@
       "countryName": "Canada",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -478,10 +478,10 @@
       "countryName": "Cayman Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -489,10 +489,10 @@
       "countryName": "Central African Republic",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -500,10 +500,10 @@
       "countryName": "Chile",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -511,10 +511,10 @@
       "countryName": "China",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -522,10 +522,10 @@
       "countryName": "Christmas Island",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -533,10 +533,10 @@
       "countryName": "Cocos (Keeling) Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -544,10 +544,10 @@
       "countryName": "Colombia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -555,10 +555,10 @@
       "countryName": "Comoros",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -566,10 +566,10 @@
       "countryName": "Congo",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -577,10 +577,10 @@
       "countryName": "Congo, Democratic Republic of the",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -588,10 +588,10 @@
       "countryName": "Cook Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -599,10 +599,10 @@
       "countryName": "Costa Rica",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -610,10 +610,10 @@
       "countryName": "Côte d'Ivoire",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -621,10 +621,10 @@
       "countryName": "Cuba",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -632,10 +632,10 @@
       "countryName": "Curaçao",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -643,10 +643,10 @@
       "countryName": "Czechia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -654,10 +654,10 @@
       "countryName": "Denmark",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -665,10 +665,10 @@
       "countryName": "Djibouti",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -676,10 +676,10 @@
       "countryName": "Dominica",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -687,10 +687,10 @@
       "countryName": "Dominican Republic",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -698,10 +698,10 @@
       "countryName": "Ecuador",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -709,10 +709,10 @@
       "countryName": "Egypt",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -720,10 +720,10 @@
       "countryName": "El Salvador",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -731,10 +731,10 @@
       "countryName": "Eritrea",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -742,10 +742,10 @@
       "countryName": "Estonia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -753,10 +753,10 @@
       "countryName": "Eswatini",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -764,10 +764,10 @@
       "countryName": "Ethiopia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -775,10 +775,10 @@
       "countryName": "Falkland Islands (Malvinas)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -786,10 +786,10 @@
       "countryName": "Faroe Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -797,10 +797,10 @@
       "countryName": "Belgium",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -808,10 +808,10 @@
       "countryName": "Saint Pierre and Miquelon",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -819,10 +819,10 @@
       "countryName": "Algeria",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -830,10 +830,10 @@
       "countryName": "American Samoa",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -841,10 +841,10 @@
       "countryName": "Andorra",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -852,10 +852,10 @@
       "countryName": "Angola",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -863,10 +863,10 @@
       "countryName": "Anguilla",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -874,10 +874,10 @@
       "countryName": "Antarctica",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -885,10 +885,10 @@
       "countryName": "Antigua and Barbuda",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -896,10 +896,10 @@
       "countryName": "Argentina",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -907,10 +907,10 @@
       "countryName": "Armenia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -918,10 +918,10 @@
       "countryName": "Aruba",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -929,10 +929,10 @@
       "countryName": "Australia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -940,10 +940,10 @@
       "countryName": "Austria",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -951,10 +951,10 @@
       "countryName": "Bahamas",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -962,10 +962,10 @@
       "countryName": "Bahrain",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -973,10 +973,10 @@
       "countryName": "Bangladesh",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -984,10 +984,10 @@
       "countryName": "Barbados",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -995,10 +995,10 @@
       "countryName": "Fiji",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1006,10 +1006,10 @@
       "countryName": "Finland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1017,10 +1017,10 @@
       "countryName": "France",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1028,10 +1028,10 @@
       "countryName": "French Guiana",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1039,10 +1039,10 @@
       "countryName": "French Polynesia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1050,10 +1050,10 @@
       "countryName": "Gabon",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1061,10 +1061,10 @@
       "countryName": "Gambia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1072,10 +1072,10 @@
       "countryName": "Germany",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1083,10 +1083,10 @@
       "countryName": "Moldova, Republic of",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1094,10 +1094,10 @@
       "countryName": "South Georgia and the South Sandwich Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1105,10 +1105,10 @@
       "countryName": "South Sudan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1116,10 +1116,10 @@
       "countryName": "Spain",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1127,10 +1127,10 @@
       "countryName": "Sri Lanka",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1138,10 +1138,10 @@
       "countryName": "Ghana",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1149,10 +1149,10 @@
       "countryName": "Gibraltar",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1160,10 +1160,10 @@
       "countryName": "Greece",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1171,10 +1171,10 @@
       "countryName": "Greenland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1182,10 +1182,10 @@
       "countryName": "Grenada",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1193,10 +1193,10 @@
       "countryName": "Guadeloupe",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1204,10 +1204,10 @@
       "countryName": "Guam",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1215,10 +1215,10 @@
       "countryName": "Azerbaijan",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/az.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1226,10 +1226,10 @@
       "countryName": "Turkey",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/tr.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1237,10 +1237,10 @@
       "countryName": "Samoa",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1248,10 +1248,10 @@
       "countryName": "Ukraine",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/ua.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1259,10 +1259,10 @@
       "countryName": "Belarus",
       "customRegistryUrl": null,
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/by.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1270,10 +1270,10 @@
       "countryName": "Guatemala",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1281,10 +1281,10 @@
       "countryName": "Sudan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1292,10 +1292,10 @@
       "countryName": "Guinea",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1303,10 +1303,10 @@
       "countryName": "Guinea-Bissau",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1314,10 +1314,10 @@
       "countryName": "Guyana",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1325,10 +1325,10 @@
       "countryName": "Haiti",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1336,10 +1336,10 @@
       "countryName": "Heard Island and McDonald Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1347,10 +1347,10 @@
       "countryName": "Holy See",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1358,10 +1358,10 @@
       "countryName": "Honduras",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1369,10 +1369,10 @@
       "countryName": "Hong Kong",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1380,10 +1380,10 @@
       "countryName": "Hungary",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1391,10 +1391,10 @@
       "countryName": "Iceland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1402,10 +1402,10 @@
       "countryName": "India",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1413,10 +1413,10 @@
       "countryName": "Iran (Islamic Republic of)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1424,10 +1424,10 @@
       "countryName": "Iraq",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1435,10 +1435,10 @@
       "countryName": "Ireland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1446,10 +1446,10 @@
       "countryName": "Isle of Man",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1457,10 +1457,10 @@
       "countryName": "Israel",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1468,10 +1468,10 @@
       "countryName": "Italy",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1479,10 +1479,10 @@
       "countryName": "Jamaica",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1490,10 +1490,10 @@
       "countryName": "Japan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1501,10 +1501,10 @@
       "countryName": "Jersey",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1512,10 +1512,10 @@
       "countryName": "Jordan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1523,10 +1523,10 @@
       "countryName": "Kenya",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1534,10 +1534,10 @@
       "countryName": "Korea (Democratic People's Republic of)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1545,10 +1545,10 @@
       "countryName": "Korea, Republic of",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1556,10 +1556,10 @@
       "countryName": "Kuwait",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1567,10 +1567,10 @@
       "countryName": "Lao People's Democratic Republic",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1578,10 +1578,10 @@
       "countryName": "Latvia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1589,10 +1589,10 @@
       "countryName": "Lebanon",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1600,10 +1600,10 @@
       "countryName": "Lesotho",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1611,10 +1611,10 @@
       "countryName": "Liberia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1622,10 +1622,10 @@
       "countryName": "Libya",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1633,10 +1633,10 @@
       "countryName": "Lithuania",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1644,10 +1644,10 @@
       "countryName": "Luxembourg",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1655,10 +1655,10 @@
       "countryName": "Macao",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1666,10 +1666,10 @@
       "countryName": "Madagascar",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1677,10 +1677,10 @@
       "countryName": "Malawi",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1688,10 +1688,10 @@
       "countryName": "Malaysia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1699,10 +1699,10 @@
       "countryName": "Maldives",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1710,10 +1710,10 @@
       "countryName": "Mali",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1721,10 +1721,10 @@
       "countryName": "Malta",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1732,10 +1732,10 @@
       "countryName": "Marshall Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1743,10 +1743,10 @@
       "countryName": "Martinique",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1754,10 +1754,10 @@
       "countryName": "Mauritius",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1765,10 +1765,10 @@
       "countryName": "Mayotte",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1776,10 +1776,10 @@
       "countryName": "Mexico",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1787,10 +1787,10 @@
       "countryName": "Monaco",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1798,10 +1798,10 @@
       "countryName": "Mongolia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1809,10 +1809,10 @@
       "countryName": "Montenegro",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1820,10 +1820,10 @@
       "countryName": "Montserrat",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1831,10 +1831,10 @@
       "countryName": "Morocco",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1842,10 +1842,10 @@
       "countryName": "Mozambique",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1853,10 +1853,10 @@
       "countryName": "Myanmar",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1864,10 +1864,10 @@
       "countryName": "Namibia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1875,10 +1875,10 @@
       "countryName": "Nepal",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1886,10 +1886,10 @@
       "countryName": "Netherlands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1897,10 +1897,10 @@
       "countryName": "New Caledonia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1908,10 +1908,10 @@
       "countryName": "New Zealand",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1919,10 +1919,10 @@
       "countryName": "Nicaragua",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1930,10 +1930,10 @@
       "countryName": "Niger",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1941,10 +1941,10 @@
       "countryName": "Nigeria",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1952,10 +1952,10 @@
       "countryName": "Niue",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1963,10 +1963,10 @@
       "countryName": "Norfolk Island",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1974,10 +1974,10 @@
       "countryName": "North Macedonia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1985,10 +1985,10 @@
       "countryName": "Northern Mariana Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -1996,10 +1996,10 @@
       "countryName": "Oman",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2007,10 +2007,10 @@
       "countryName": "Pakistan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2018,10 +2018,10 @@
       "countryName": "Palau",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2029,10 +2029,10 @@
       "countryName": "Palestine, State of",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2040,10 +2040,10 @@
       "countryName": "Panama",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2051,10 +2051,10 @@
       "countryName": "Papua New Guinea",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2062,10 +2062,10 @@
       "countryName": "Paraguay",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2073,10 +2073,10 @@
       "countryName": "Peru",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2084,10 +2084,10 @@
       "countryName": "Philippines",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2095,10 +2095,10 @@
       "countryName": "Pitcairn",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2106,10 +2106,10 @@
       "countryName": "Poland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2117,10 +2117,10 @@
       "countryName": "Puerto Rico",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2128,10 +2128,10 @@
       "countryName": "Qatar",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2139,10 +2139,10 @@
       "countryName": "Réunion",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2150,10 +2150,10 @@
       "countryName": "Romania",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2161,10 +2161,10 @@
       "countryName": "Rwanda",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2172,10 +2172,10 @@
       "countryName": "Saint Barthélemy",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2183,10 +2183,10 @@
       "countryName": "Saint Helena, Ascension and Tristan da Cunha",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2194,10 +2194,10 @@
       "countryName": "Saint Kitts and Nevis",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2205,10 +2205,10 @@
       "countryName": "Saint Lucia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2216,10 +2216,10 @@
       "countryName": "Saint Martin (French part)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2227,10 +2227,10 @@
       "countryName": "San Marino",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2238,10 +2238,10 @@
       "countryName": "Sao Tome and Principe",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2249,10 +2249,10 @@
       "countryName": "Saudi Arabia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2260,10 +2260,10 @@
       "countryName": "Senegal",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2271,10 +2271,10 @@
       "countryName": "Serbia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2282,10 +2282,10 @@
       "countryName": "Seychelles",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2293,10 +2293,10 @@
       "countryName": "Sierra Leone",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2304,10 +2304,10 @@
       "countryName": "Singapore",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2315,10 +2315,10 @@
       "countryName": "Sint Maarten (Dutch part)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2326,10 +2326,10 @@
       "countryName": "Slovakia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2337,10 +2337,10 @@
       "countryName": "Solomon Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2348,10 +2348,10 @@
       "countryName": "Somalia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2359,10 +2359,10 @@
       "countryName": "South Africa",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2370,10 +2370,10 @@
       "countryName": "Suriname",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2381,10 +2381,10 @@
       "countryName": "Svalbard and Jan Mayen",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2392,10 +2392,10 @@
       "countryName": "Sweden",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2403,10 +2403,10 @@
       "countryName": "Switzerland",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2414,10 +2414,10 @@
       "countryName": "Syrian Arab Republic",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2425,10 +2425,10 @@
       "countryName": "Taiwan, Province of China",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2436,10 +2436,10 @@
       "countryName": "Tajikistan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2447,10 +2447,10 @@
       "countryName": "Tanzania, United Republic of",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2458,10 +2458,10 @@
       "countryName": "Thailand",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2469,10 +2469,10 @@
       "countryName": "Timor-Leste",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2480,10 +2480,10 @@
       "countryName": "Togo",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2491,10 +2491,10 @@
       "countryName": "Tokelau",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2502,10 +2502,10 @@
       "countryName": "Tonga",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2513,10 +2513,10 @@
       "countryName": "Trinidad and Tobago",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2524,10 +2524,10 @@
       "countryName": "Tunisia",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2535,10 +2535,10 @@
       "countryName": "Turkmenistan",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2546,10 +2546,10 @@
       "countryName": "Turks and Caicos Islands",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2557,10 +2557,10 @@
       "countryName": "Tuvalu",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2568,10 +2568,10 @@
       "countryName": "Uganda",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2579,10 +2579,10 @@
       "countryName": "United Arab Emirates",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2590,10 +2590,10 @@
       "countryName": "Uruguay",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2601,10 +2601,10 @@
       "countryName": "Vanuatu",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2612,10 +2612,10 @@
       "countryName": "Venezuela (Bolivarian Republic of)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2623,10 +2623,10 @@
       "countryName": "Viet Nam",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2634,10 +2634,10 @@
       "countryName": "Virgin Islands (British)",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     },
     {
@@ -2645,15 +2645,15 @@
       "countryName": "Zimbabwe",
       "customRegistryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "ignoreUrl": null,
-      "proxyUrl": "https://app.censortracker.org/api/proxy-config/",
+      "proxyUrl": "https://app.ctreserve.de/api/proxy-config/",
       "registryUrl": "https://raw.githubusercontent.com/censortracker/ctconf/main/registry/default.json",
       "specifics": {
-        "cooperationRefusedORIUrl": "https://registry.censortracker.org/api/v3/disseminators/refused/"
+        "cooperationRefusedORIUrl": "https://registry.ctreserve.de/api/v3/disseminators/refused/"
       }
     }
   ],
   "meta": {
-    "geoIPServiceURL": "https://geo.censortracker.org/get-iso/",
+    "geoIPServiceURL": "https://geo.ctreserve.de/get-iso/",
     "message": {
       "description": null,
       "page": "popup|options",
